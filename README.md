@@ -15,7 +15,7 @@ Output
 ==========
 
 1. Tidy dataset=averages by subject and activity.txt
-2. SCodebook.md
+2. Codebook.md
 
 
 Reproduce Steps:
