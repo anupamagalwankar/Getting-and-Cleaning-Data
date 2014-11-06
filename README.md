@@ -14,8 +14,8 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 Output
 ==========
 
-Tidy dataset=averages by subject and activity.txt
-SCodebook.md
+1. Tidy dataset=averages by subject and activity.txt
+2. SCodebook.md
 
 
 Reproduce Steps:
