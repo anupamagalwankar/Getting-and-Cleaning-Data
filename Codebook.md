@@ -3,8 +3,8 @@ Codebook for the tidy dataset produced by script analysis.R
 
 ##Columns and Descriptions
 
-1.  subject:      ID of the subject who performed the activity
-2.  activity:     Name of activity (Walking, Walking upstairs, Walking downstairs, Sitting, Standing, Laying)
+1.  activity:     Name of activity (Walking, Walking upstairs, Walking downstairs, Sitting, Standing, Laying)
+2.  subject:      ID of the subject who performed the activity
 3.  Domain:       Time domain signal or Frequency domain signal
 4.  Acceleration: Acceleration signal (Body or Gravity)
 5.  Instrument:   Measuring Instrument (Accelerometer or Gyrospector)
